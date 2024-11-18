@@ -1,6 +1,6 @@
 export const config = {
   github: {
-    username: "your-github-username"
+    username: "icelaterdc"
   },
   social: {
     twitter: "your-twitter",
