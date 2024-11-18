@@ -24,7 +24,7 @@ function App() {
           className="text-center space-y-4"
         >
           <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-300 to-blue-500 bg-clip-text text-transparent">
-            Merhaba, Ben [İsim]
+            Selam, ben IceLater
           </h1>
           <p className="text-xl text-slate-300">
             Full Stack Geliştirici & UI/UX Tasarımcı
@@ -39,8 +39,7 @@ function App() {
               <User className="text-blue-300" size={24} />
               <div>
                 <p className="text-slate-300 leading-relaxed">
-                  Modern web teknolojileri ve kullanıcı deneyimi konularında uzmanlaşmış bir yazılım geliştiricisiyim. 
-                  Yenilikçi çözümler üretmeyi ve sürekli öğrenmeyi seviyorum.
+                  Discord bot yapımıyla başladığım yazılım serüvenimde 2D oyun tasarlama yeteneğine kadar ulaşmış tam yığın gelistiriciyim. 17 yaşındayım, müzik dinlemeyi ve bazen de anime izlemegi severim.
                 </p>
               </div>
             </div>
