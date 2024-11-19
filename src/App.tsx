@@ -39,7 +39,7 @@ function App() {
               <User className="text-blue-300" size={24} />
               <div>
                 <p className="text-slate-300 leading-relaxed">
-                  Discord bot yapımıyla başladığım yazılım serüvenimde 2D oyun tasarlama yeteneğine kadar ulaşmış tam yığın gelistiriciyim. 17 yaşındayım, müzik dinlemeyi ve bazen de anime izlemeyi severim. Gönüllü olarak resmi Pubg Mobile hile ve ban dedektifliği yapıyorum. Sevdiğim bilgisayar oyunlarının arasında Call of Duty, The Last of Us, Detroit Become Human, Genshin Impact, Pubg Mobile, Minecraft, Among US yer almaktadır.
+                  Merhaba, adım Muhammed Kayra! Discord bot yapımıyla başladığım yazılım serüvenimde 2D oyun tasarlama yeteneğine kadar ulaşmış tam yığın gelistiriciyim. 17 yaşındayım, müzik dinlemeyi ve bazen de anime izlemeyi severim. Gönüllü olarak resmi Pubg Mobile hile ve ban dedektifliği yapıyorum. Sevdiğim bilgisayar oyunlarının arasında Call of Duty, The Last of Us, Detroit Become Human, Genshin Impact, Pubg Mobile, Minecraft, Among US yer alıyor.
                 </p>
               </div>
             </div>
